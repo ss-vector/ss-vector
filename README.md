@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Javascript, Python, Typescript
 - 👯 I’m looking to collaborate on Open Source Projects
 - 🤔 I’m looking for help with Odoo v.15 module development.
-- 💬 Ask me about ...
+- 💬 Ask me about CSS, SASS, PHP
 - 📫 How to reach me: ...
 - 😄 Pronouns: He
 - ⚡ Fun fact: I have a cat pet named Pancho
