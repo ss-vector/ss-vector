@@ -6,6 +6,5 @@
 - 🤔 I’m looking for help with Odoo module development.
 - 💬 Ask me about CSS, SASS, PHP
 - 📫 How to reach me: ...
-- 😄 Pronouns: He
 - ⚡ Fun fact: 
 -->
