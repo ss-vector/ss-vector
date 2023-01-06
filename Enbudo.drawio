@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-06T13:41:50.858Z" agent="5.0 (Windows)" etag="mOi4lelVSPglfAyacJTB" version="20.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-06T13:45:43.939Z" agent="5.0 (Windows)" etag="3yQ_litbnvhNF3uSJqz3" version="20.8.1" type="github">
   <diagram id="FKbZ4pUcJLhqBmUT38od" name="Página-1">
     <mxGraphModel dx="1194" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -115,16 +115,31 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cpSHxgMs6lZK7ATZQ9MI-1" value="Nuevas Oportunidades de Venta" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="630" y="180" width="170" height="30" as="geometry" />
+          <mxGeometry x="657" y="170" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cpSHxgMs6lZK7ATZQ9MI-2" value="Contacto con Sondeo o Calificación" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="630" y="240" width="170" height="30" as="geometry" />
+          <mxGeometry x="640" y="230" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cpSHxgMs6lZK7ATZQ9MI-3" value="Contacto Sin Envio de Presupuesto" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="630" y="290" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cpSHxgMs6lZK7ATZQ9MI-4" value="Contacto con Envio de Presupuesto - Sin Sondeo" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="590" y="340" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cpSHxgMs6lZK7ATZQ9MI-5" value="Contacto con Presupuesto + Sondeo" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="390" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cpSHxgMs6lZK7ATZQ9MI-6" value="Cliente Potencial" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="440" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cpSHxgMs6lZK7ATZQ9MI-7" value="Pre Reserva" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="490" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cpSHxgMs6lZK7ATZQ9MI-8" value="Reserva con Pago" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="550" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cpSHxgMs6lZK7ATZQ9MI-9" value="Reserva Completa(Incl. Pago y Documentación)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="620" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
