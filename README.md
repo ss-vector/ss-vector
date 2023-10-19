@@ -5,6 +5,6 @@
 - 👯 I’m looking to collaborate on Open Source Projects
 - 🤔 I’m looking for help with Odoo module development.
 - 💬 Ask me about CSS, SASS, PHP
-- 📫 How to reach me: ...
+- 📫 How to reach me: omejia@eltriunfo.pe
 - ⚡ Fun fact: 
 -->
